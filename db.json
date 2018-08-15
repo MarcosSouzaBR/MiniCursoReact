@@ -1,0 +1,48 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "Westworld",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Uma das melhores séries"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "id": 10,
+      "name": "The Walking Dead",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Boa"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
